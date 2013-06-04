@@ -16,6 +16,7 @@ public class MutaActivity extends Activity implements SensorEventListener{
 	private float y = 0;
 	private float z = 0;
 	
+	
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
